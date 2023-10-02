@@ -8,7 +8,11 @@ In the tutorial notebooks folder, you find the notebooks that we are cover each 
 Exercises List:
 
 Exercise01: Language identification with sklearn and skorch
+
 Exercise02:
+
 Exercise03:
+
 Exercise05:
+
 Exercise06:
