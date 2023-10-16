@@ -9,7 +9,7 @@ Exercises List:
 
 Exercise01: Language identification with sklearn and skorch
 
-Exercise02:
+Exercise02: Word Embeddings using Pytorch
 
 Exercise03:
 
