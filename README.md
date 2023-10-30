@@ -11,7 +11,7 @@ Exercise01: Language identification with sklearn and skorch
 
 Exercise02: Word Embeddings using Pytorch
 
-Exercise03:
+Exercise03: Exercise 3 - Emotion Recognition using Convolutional Neural Networks
 
 Exercise05:
 
