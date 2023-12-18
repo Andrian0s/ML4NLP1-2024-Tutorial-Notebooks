@@ -13,6 +13,6 @@ Exercise02: Word Embeddings using Pytorch
 
 Exercise03: Emotion Recognition using Convolutional Neural Networks
 
-Exercise05:
+Exercise05: Sequence Classification and Anger Regression using Transformers
 
-Exercise06:
+Exercise06: Topic Modeling - Topics and Trends in NLP
