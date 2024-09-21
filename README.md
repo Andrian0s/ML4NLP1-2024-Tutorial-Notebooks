@@ -3,13 +3,13 @@ Practical Tutorials for the [Machine Learning for Natural Language Processing 1]
 
 More Detailed Code Repository Structure available soon:
 
-Exercise_given_code: Contains the given code samples for completing the exercises.
+exercise_given_code: Contains the given code samples for completing the exercises.
 
-Tutorials_presented_code: Contains the given code samples presented within the tutorials.
+tutorials_notebooks_in_class: Contains the given code samples presented within the tutorials.
 
-Lecture_supplementaryl_code_samples: Contains the code sample presented or given within the lecture.
+lecture_supplementaryl_code_samples: Contains the code sample presented or given within the lecture.
 
-Tutorial_supplementary_code_samples: Contains supplementary code samples provided as part of the tutorials.
+tutorials_supplementary_code_samples: Contains supplementary code samples provided as part of the tutorials.
 
 Exercises List(to be updated)
 
