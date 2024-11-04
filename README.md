@@ -20,9 +20,11 @@ From linear to deep learning models for text classification. In this exercise, y
 
 See the exercise sheet for more details: [Exercise 01](./exercises/ex01/ex01.pdf)
 
-Exercise 02: Building word embeddings with PyTorch. In this exercise, you will implement a Continuous Bag of Words Model using the `torch` library. See the exercise sheet for more details: [Exercise 02](https://github.com/Andrian0s/ML4NLP1-2024-Tutorial-Notebooks/tree/main/exercises/ex2)
+### Exercise 02:
+Building word embeddings with PyTorch. In this exercise, you will implement a Continuous Bag of Words Model using the `torch` library. See the exercise sheet for more details: [Exercise 02](https://github.com/Andrian0s/ML4NLP1-2024-Tutorial-Notebooks/tree/main/exercises/ex2)
 
-Exercise 04: Named Entity Recognition using Transformer Encoders. In this exercise, you will fine-tune a BERT model using the HuggingFace library: [Exercise 04](https://github.com/Andrian0s/ML4NLP1-2024-Tutorial-Notebooks/tree/main/exercises/ex4)
+## Exercise 04:
+Named Entity Recognition using Transformer Encoders. In this exercise, you will fine-tune a BERT model using the HuggingFace library: [Exercise 04](https://github.com/Andrian0s/ML4NLP1-2024-Tutorial-Notebooks/tree/main/exercises/ex4)
 
 Exercise 05: /
 
