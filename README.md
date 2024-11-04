@@ -26,7 +26,7 @@ Building word embeddings with PyTorch. In this exercise, you will implement a Co
 ### Exercise 03:
 Also known as Exercise AB. Handled through Simon Clematide. Please see OLAT Course for details
 
-## Exercise 04:
+### Exercise 04:
 Named Entity Recognition using Transformer Encoders. In this exercise, you will fine-tune a BERT model using the HuggingFace library: [Exercise 04](https://github.com/Andrian0s/ML4NLP1-2024-Tutorial-Notebooks/tree/main/exercises/ex4)
 
 ### Exercise 05: 
