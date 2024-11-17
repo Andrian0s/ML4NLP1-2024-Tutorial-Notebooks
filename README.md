@@ -1,6 +1,3 @@
-Todays Tutorial Slides Link: Will be updated and uploaded later:
-https://docs.google.com/presentation/d/1hOaDgykqojEx6vkCgk_xxh9T6lH-lM2qAhUX1u6-auU/edit?usp=sharing
-
 # ML4NLP1-2024-Tutorial-Notebooks
 Practical Tutorials for the [Machine Learning for Natural Language Processing 1](https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=EN&sap-ui-language=EN#/details/2023/003/SM/50941599) Lecture at the University of Zurich for the Fall Semester 2024.
 
