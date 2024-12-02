@@ -30,7 +30,7 @@ Also known as Exercise AB. Handled through Simon Clematide. Please see OLAT Cour
 Named Entity Recognition using Transformer Encoders. In this exercise, you will fine-tune a BERT model using the HuggingFace library: [Exercise 04](https://github.com/Andrian0s/ML4NLP1-2024-Tutorial-Notebooks/tree/main/exercises/ex4)
 
 ### Exercise 05: 
-/
+LLM Prompting and Prompt Engineering [Exercise 05](https://github.com/Andrian0s/ML4NLP1-2024-Tutorial-Notebooks/tree/main/exercises/ex5)
 
 ### Exercise 06: 
-/
+Topic Modeling using LDA and CTM [Exercise 06](https://github.com/Andrian0s/ML4NLP1-2024-Tutorial-Notebooks/tree/main/exercises/ex6)
